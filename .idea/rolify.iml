@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v5.2.8.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionview (v5.2.8.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v5.2.8.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ammeter (v1.1.5, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="appraisal (v2.4.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.26, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="byebug (v11.1.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="codeclimate-test-reporter (v1.0.9, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.2.2, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coveralls (v0.8.19, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="database_cleaner (v1.6.2, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.5.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="docile (v1.1.5, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubi (v1.12.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v1.14.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="its (v0.2.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.6.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="loofah (v2.21.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v1.0.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.18.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.15.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="power_assert (v2.0.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.14.2, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry-byebug (v3.10.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="racc (v1.7.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.7, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v2.1.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.1.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.6.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v5.2.8.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v12.3.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.9.3, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.9.4, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.9.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v3.9.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.9.4, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov (v0.12.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov-html (v0.10.2, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sync (v0.5.0, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="term-ansicolor (v1.7.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="test-unit (v3.6.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.4, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tins (v1.32.1, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.11, RVM: ruby-3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.6.8, RVM: ruby-3.0.0) [gem]" level="application" />
+  </component>
+  <component name="RakeTasksCache">
+    <option name="myRootTask">
+      <RakeTaskImpl id="rake">
+        <subtasks>
+          <RakeTaskImpl description="Run the given task for all appraisals" fullCommand="appraisal" id="appraisal" />
+          <RakeTaskImpl id="appraisal">
+            <subtasks>
+              <RakeTaskImpl description="DEPRECATED: Run the given task for appraisal activerecord-4" fullCommand="appraisal:activerecord-4" id="activerecord-4" />
+              <RakeTaskImpl description="DEPRECATED: Run the given task for appraisal activerecord-5" fullCommand="appraisal:activerecord-5" id="activerecord-5" />
+              <RakeTaskImpl description="DEPRECATED: Run the given task for appraisal activerecord-6" fullCommand="appraisal:activerecord-6" id="activerecord-6" />
+              <RakeTaskImpl description="DEPRECATED: Remove all generated gemfiles from gemfiles/ folder" fullCommand="appraisal:cleanup" id="cleanup" />
+              <RakeTaskImpl description="DEPRECATED: Generate a Gemfile for each appraisal" fullCommand="appraisal:gemfiles" id="gemfiles" />
+              <RakeTaskImpl description="DEPRECATED: Resolve and install dependencies for each appraisal" fullCommand="appraisal:install" id="install" />
+              <RakeTaskImpl description="DEPRECATED: Run the given task for appraisal mongoid-5" fullCommand="appraisal:mongoid-5" id="mongoid-5" />
+              <RakeTaskImpl description="DEPRECATED: Run the given task for appraisal mongoid-6" fullCommand="appraisal:mongoid-6" id="mongoid-6" />
+              <RakeTaskImpl description="DEPRECATED: Run the given task for appraisal mongoid-7" fullCommand="appraisal:mongoid-7" id="mongoid-7" />
+              <RakeTaskImpl description="" fullCommand="appraisal:all" id="all" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="Build rolify-6.0.1.gem into the pkg directory" fullCommand="build" id="build" />
+          <RakeTaskImpl id="build">
+            <subtasks>
+              <RakeTaskImpl description="Generate SHA512 checksum if rolify-6.0.1.gem into the checksums directory" fullCommand="build:checksum" id="checksum" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl id="coveralls">
+            <subtasks>
+              <RakeTaskImpl description="Push latest coverage results to Coveralls.io" fullCommand="coveralls:push" id="push" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="Run RSpec code examples" fullCommand="generators" id="generators" />
+          <RakeTaskImpl description="Build and install rolify-6.0.1.gem into system gems" fullCommand="install" id="install" />
+          <RakeTaskImpl id="install">
+            <subtasks>
+              <RakeTaskImpl description="Build and install rolify-6.0.1.gem into system gems without network access" fullCommand="install:local" id="local" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="Create tag v6.0.1 and build and push rolify-6.0.1.gem to rubygems.org" fullCommand="release[remote]" id="release[remote]" />
+          <RakeTaskImpl description="Run RSpec code examples" fullCommand="rolify" id="rolify" />
+          <RakeTaskImpl description="Run all specs" fullCommand="spec" id="spec" />
+          <RakeTaskImpl description="Run specs for all adapters" fullCommand="spec_all" id="spec_all" />
+          <RakeTaskImpl description="" fullCommand="default" id="default" />
+          <RakeTaskImpl description="" fullCommand="release" id="release" />
+          <RakeTaskImpl id="release">
+            <subtasks>
+              <RakeTaskImpl description="" fullCommand="release:guard_clean" id="guard_clean" />
+              <RakeTaskImpl description="" fullCommand="release:rubygem_push" id="rubygem_push" />
+              <RakeTaskImpl description="" fullCommand="release:source_control_push" id="source_control_push" />
+            </subtasks>
+          </RakeTaskImpl>
+        </subtasks>
+      </RakeTaskImpl>
+    </option>
+  </component>
+</module>
